@@ -1,2 +1,2 @@
 # Recriando Interface da Netflix
-Interface recriada, não de forma identica mas proxima ao site original da netflix
+Interface recriada, não de forma idêntica mas próxima ao site original da Netflix
