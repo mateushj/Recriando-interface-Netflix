@@ -1,7 +1,5 @@
 # Recriando interface do Netflix
 
-## Descrição:
-
 Neste projeto, estou colocando em prática os aprendizados adquiridos no bootcamp da DIO
 
 ## Objetivo
