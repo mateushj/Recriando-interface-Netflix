@@ -1,2 +1,8 @@
-# Recriando Interface da Netflix
-Interface recriada, não de forma idêntica mas próxima ao site original da Netflix
+# Recriando interface do Netflix
+
+## Descrição:
+
+Neste projeto, estou colocando em prática os aprendizados adquiridos no bootcamp da DIO
+
+## Objetivo
+Aprender como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar elementos com Flexbox e como utilizar plugins jQuery.
